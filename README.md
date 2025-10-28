@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a second-year Computer Science student at the University of Bristol, passionate about exploring the realms of coding, building applications and the continued development of technology.
 
-# 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 - A mobile app that allows users who take a probiotic for IBS to log their symptoms and track their progress.
 - Designing and implementing programs which simulate the Game of Life on an image matrix.
 
