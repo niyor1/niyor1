@@ -25,7 +25,6 @@ Led a team of 4 to deliver a cross-platform Flutter app that replaced email surv
 
 # 🔭 Currently
 - Extending my FPL fine-tuning pipeline
-- Learning Unreal Engine through small experiments
 - Looking for software engineering internships
 
 # 💻 Tech Stack
